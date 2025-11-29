@@ -1,0 +1,5 @@
+typings/
+alarm/secrets.py
+alarm/SECRETS.py
+.vscode/
+.micropico
